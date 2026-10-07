@@ -1,0 +1,21 @@
+{
+  "name": "Dra. Carolina Oliveira Lucas Soares",
+  "short_name": "Dra. Carolina",
+  "description": "Psiquiatra em Esmeraldas, MG, com atendimento presencial e online. Especial interesse em Saúde do Sono, ansiedade, depressão, TDAH e saúde mental do adulto.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#081A2F",
+  "theme_color": "#081A2F",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
